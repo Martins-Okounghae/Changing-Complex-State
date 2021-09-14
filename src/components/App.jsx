@@ -8,10 +8,6 @@ const[fullName, setfullName] = useState({
 });
 
 function handleChange(event){
-  // const newValue = event.target.value
-  // const inputName = event.target.name
-
-
   const{value, name} = event.target
 
 
